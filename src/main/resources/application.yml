@@ -1,0 +1,7 @@
+app:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    jdbc-url: jdbc:mysql://localhost:3306/MYDB
+    username: sbaloch
+    password: 12345
+    pool-size: 30
